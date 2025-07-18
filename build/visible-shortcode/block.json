@@ -1,0 +1,30 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "visible-shortcode/visible-shortcode",
+  "version": "1.0.0",
+  "title": "Visible Shortcode",
+  "category": "widgets",
+  "icon": "shortcode",
+  "description": "Shortcodes with visible rendering in the block editor.",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "keywords": [
+    "code",
+    "shortcode",
+    "visible",
+    "dynamic",
+    "preview"
+  ],
+  "textdomain": "visible-shortcode",
+  "editorScript": "file:./index.js",
+  "render": "file:./render.php",
+  "attributes": {
+    "shortcode": {
+      "type": "string",
+      "default": ""
+    }
+  }
+}
