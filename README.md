@@ -1,14 +1,15 @@
 # Visible Shortcode
 - Contributors:      Jack Whitworth
-- Tags:              block, code, shortcode, visible, dynamic, preview
-- Tested up to:      6.7
+- Tags:              block, code, shortcode, visible, preview
+- Tested up to:      6.8
 - Stable tag:        1.0.0
 - License:           GPL-2.0-or-later
 - License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
 Shortcodes with visible rendering in the block editor.
 
-# Description
+
+## Description
 
 Add shortcode to your pages with Gutenberg with a live preview of how it'll display on the page.
 

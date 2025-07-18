@@ -3,10 +3,11 @@
  * Plugin Name:       Visible Shortcode
  * Description:       Shortcodes with visible rendering in the block editor.
  * Version:           1.0.0
- * Requires at least: 6.7
+ * Requires at least: 6.0
  * Requires PHP:      7.4
  * Author:            Jack Whitworth
  * Author URI:        https://jackwhitworth.com
+ * Plugin URI:        https://github.com/jmwhitworth/Visible-Shortcode
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       visible-shortcode
